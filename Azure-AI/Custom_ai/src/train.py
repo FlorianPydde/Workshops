@@ -178,8 +178,3 @@ if __name__ == '__main__':
     os.makedirs(args.output_dir, exist_ok=True)
     torch.save(model, os.path.join(args.output_dir, 'model.pt'))
 
-    # if args.register_model:
-    #     model.register_model(
-    #         model_path = os.path.join(args.output_dir, 'model.pt'),
-    #         model_name = "pytorch-malaria-cell-class",
-    #         workspace = run.experiment.workspace) 
