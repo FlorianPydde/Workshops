@@ -1,0 +1,11 @@
+azure-cognitiveservices-vision-customvision==2.0.0
+azureml-sdk==1.2.0
+azureml-widgets==1.6.0
+fusepy==3.0.1
+matplotlib==3.2.1
+pandas==1.0.4
+pip-chill==1.0.0
+pyyaml==5.3.1
+scikit-learn==0.23.1
+torchvision==0.6.0
+tqdm==4.46.1
